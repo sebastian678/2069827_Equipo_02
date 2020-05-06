@@ -12,3 +12,5 @@ ___
 	- se podran hacer encuentas para saber los aportes o quejas de comprador hacia la empresa para mejorar.
 	- Se pondran opciones de ventas a domicilios y otras mas.
 4. Este Software se hara muy completo con la intencion de dejar una buena imagen antes los usuarios.
+
+![Imagen de software de ventas](https://www.siigo.com/wp-content/uploads/2018/03/software-de-venta.jpg)
