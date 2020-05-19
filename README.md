@@ -1,7 +1,7 @@
 # actividad
 Plantilla para desarrollo de actividades
 
-[Alcance del proyecto - David Cabrera](Especificacion_de_requerimiento.md)
+[Especificacion de requerimientos](Especificacion_de_requerimiento.md)
 
 [Acta #1](Acta#1.md)
 
