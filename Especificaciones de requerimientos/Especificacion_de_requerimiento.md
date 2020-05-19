@@ -1,4 +1,4 @@
-# **Proposito** 
+# **<PROPOSITO** 
 
 El presente documento tiene como propósito definir las especificaciones
 funcionales, no funcionales y del sistema para la implementación de una plataforma WEB que tiene capacidad para gestionar, tenga acceso y consulte la información que se desarrolla dentro del área de empredimiento de la entidad sena, la cualidad es suministrada por medio de capacitaciones en la que participan aprendices e instructores, esta será manejada por estudiantes, profesores, directivos y público en general, para el seguimiento del desarrollo de las capacidades y de cada una de las actividades e información de suma importancia como la estadística del proceso 
