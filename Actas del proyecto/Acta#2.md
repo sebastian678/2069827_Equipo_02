@@ -1,4 +1,4 @@
-##       **ACTA N°01**
+##		**ACTA N°01**
 
 ### REUNION CON LA EMPRESA
 
