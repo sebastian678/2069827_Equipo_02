@@ -35,4 +35,4 @@
 
 ## **INVITADOS**
 - **CARGO - DIRECTORA DEL AREA DE EMPRENDIMIENTO**
-- Luz alvarez
+- Luz alvarez.
