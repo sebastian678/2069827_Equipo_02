@@ -1,4 +1,5 @@
 ##       **ACTA N°01**
+---
 
 ### REUNION CON LA EMPRESA
 
@@ -11,10 +12,11 @@
 - Que es encargada del area de emprendimiento de la empresa
 - Implementacion en el area de almacenamiento de informacion
 - Que anteriormente habia un software de administracion de informacion 
-- 
+---
 
 ## **OBJETIVOS DE LA REUNION**
 1. Saber la informacion necesaria para realizar nuestro proyecto formativo.
 2. Hablar como grupo la ideas de cada uno para el proyecto
 2. Acordar que se le puede realizar a la empresa
-4. Plantear una visita al la empresa e informar nuestras ideas 
+4. Plantear una visita al la empresa e informar nuestras ideas.
+---
