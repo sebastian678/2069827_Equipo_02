@@ -21,6 +21,7 @@
 4. Plantear una visita al la empresa e informar nuestras ideas.
 
 
+
 ## **DESARROLLO DE LA REUNION**
 
 1. Una presentacion formal entre los aprendices
@@ -32,7 +33,7 @@
 ## **CONCLUSIONES**
 
 Se llego a un acuerdo con la directora del area de emprendimiento,con sistematizar toda la informacion que se le sea suministrada dentro del desarrollo de la formacion y que nosotros como aprendices SENA nos encontramos en plena disposicion para comprometernos a contribuir, desarrollar y implementar nuestro proyecto para el area de formacion.
-
+Tendremos una reunion con los ingenieros de sistemas para saber las implicaciones de su proyecto y poder colaborar en esa area 
 
 ## **COMPROMISOS**
 
