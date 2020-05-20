@@ -20,6 +20,10 @@
 2. Acordar que se le puede realizar a la empresa
 4. Plantear una visita al la empresa e informar nuestras ideas.
 
+## **CONCLUSIONES** 
+
+Tendremos una reunion con los ingenieros de sistemas para saber las implicaciones de su proyecto y poder colaborar en esa area 
+
 ## **COMPROMISOS**
 
 - Realizar nueva video-conferencia con la empresa para aclarar toda duda y concluir en lo que vamos trabajar en el proyecto.
