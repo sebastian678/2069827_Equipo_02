@@ -13,20 +13,18 @@
 
 
 ## **CONCLUSION**
-Luego de una gran lluvia de ideas entre los integrantes logramos llegar a un acuerdo y compartir la misma idea de empresa a la cual hablarle y presentarle el proyecto, de acuerdo a los beneficios e intereses comunes por parte y parte cuya campo se desarrollaba en el sena en area de emprendimiento a cargo de la directora luz alvarez
+
+Luego de una gran lluvia de ideas entre los integrantes logramos llegar a un acuerdo y compartir la misma idea de empresa a la cual hablarle y presentarle el proyecto, de acuerdo a los beneficios e intereses comunes por parte y parte cuya campo se desarrollaba en el sena en area de emprendimiento a cargo de la directora luz alvarez. Los integrantes del proyecto nos decidimos por la empresa DE EMPRENDIMIENTO SENA, porque queremos apoyar una gran entidad para que siga creciendo y facilitando ayudas a todos los colombianos. 
 
 ## **COMPROMISO**
 
-programar una videoconferencia lo mas pronto posible con la encargada y ya mencionada del area de emprendimiento ls doctora luz alvares con la intencion presentar el proyecto y consigo exponer sus beneficios con detalles
+programar una videoconferencia lo mas pronto posible con la encargada y ya mencionada del area de emprendimiento la doctora luz alvares con la intencion de presentar el proyecto y consigo exponer sus beneficios con detalles.
 
 
 ## **DESARROLO DE LA REUNION**
 
 La reunion se llevo a cabo para determinar que empresa debiamos escoger para nuestro proyecto, los integrantes colocaron 3 propuestas y determinariamos cual era la mejor opcion.
 
-## **CONCLUSIONES** 
-
-Los integrantes del proyecto nos decidimos por la empresa DE EMPRENDIMIENTO SENA, porque queremos apoyar una gran entidad para que siga creciendo y facilitando ayudas a todos los colombianos. 
 
 
 ## **ASISTENTES** 
