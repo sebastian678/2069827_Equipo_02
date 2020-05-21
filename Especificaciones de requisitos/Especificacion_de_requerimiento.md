@@ -15,7 +15,12 @@ ___
 	- Se podran hacer encuentas a los usuarios. 
 	- Tendra un buen manejo de informacion.
 	- Sera muy facil buscar cualquier dato.
-4. Este Software se hara muy completo con la intencion de dejar una buena imagen antes los usuarios.
+4. Este Software se hara muy completo con la intencion de dejar una buena imagen antes los usuarios. 
+··** definicon,acronico,abreviamneto**··
+1. ADSD-Analisi De Software de Documentacion 
+2. SEP-Secretaria de Educacion Publica
+3. BD-Base de daos 
+4. RIP-Registro de Informacion General
 
 ## **APRECIACION GLOBAL**
 
