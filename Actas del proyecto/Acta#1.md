@@ -24,6 +24,10 @@ programar una videoconferencia lo mas pronto posible con la encargada y ya menci
 
 La reunion se llevo a cabo para determinar que empresa debiamos escoger para nuestro proyecto, los integrantes colocaron 3 propuestas y determinariamos cual era la mejor opcion.
 
+## **CONCLUSIONES** 
+
+Los integrantes del proyecto nos decidimos por la empresa DE EMPRENDIMIENTO SENA, porque queremos apoyar una gran entidad para que siga creciendo y facilitando ayudas a todos los colombianos. 
+
 
 ## **ASISTENTES** 
 
@@ -34,3 +38,6 @@ Jose diazgranados - Aprendiz
 Leidy Quiroga - Aprendiz
 Emmanuel Alvarez - Aprendiz
 
+## **INVITADOS**
+
+No hubo ningun invitado a esta reunion
