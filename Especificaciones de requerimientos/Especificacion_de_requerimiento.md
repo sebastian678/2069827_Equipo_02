@@ -19,4 +19,4 @@ ___
 
 ## **APRECIACION GLOBAL**
 
-Este documento esta conformado por secciones que son el proposito, el alcance, y la ultima seccion es donde estan las definicines y los pormenores de los requisitos. en esta primera seccion se procura proporcionar una vision general de las funciones que cumplira o no el software. En la segunda seccion se da una descripcion general del sistema a construir, para conocer los datos requeridos y sus funciones generales, aunque no se entra en detalles de cada uno de esto factores. y por ultimo  tambien se conoceran las definiciones y los pormenoes del software.
+Este documento esta conformado por secciones que son el proposito, el alcance, y la ultima seccion es donde estan las definicines y los pormenores de los requisitos. en esta primera seccion se procura proporcionar una vision general de las funciones que cumplira o no el software. En la segunda seccion se da una descripcion general del sistema a construir, para conocer los datos requeridos y sus funciones generales, aunque no se entra en detalles de cada uno de esto factores. y por ultimo  tambien se conoceran las definiciones y los pormenores del software.
