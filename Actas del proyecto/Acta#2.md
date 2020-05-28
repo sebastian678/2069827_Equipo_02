@@ -1,4 +1,4 @@
-##		**ACTA N°1**
+##		**ACTA N°2**
 
 ### REUNION ENTRE LOS INTEGRANTES DEL GRUPO PARA ESCOGER LA EMPRESA
 
@@ -8,9 +8,9 @@
 
 ## **TEMAS QUE SE HABLARON**
 
-- cual era la mejor empresa para nuestró proyecto.
-- se ofrecieron ideas de empresas para el proyecto.
-- acordamos por una empresa que seria la mejor opcion para realizar nuestro proyecto.
+- Cual era la mejor empresa para nuestró proyecto.
+- Se ofrecieron ideas de empresas para el proyecto.
+- Acordamos por una empresa que seria la mejor opcion para realizar nuestro proyecto.
 
 
 ## **DESARROLLO DE LA REUNION**
