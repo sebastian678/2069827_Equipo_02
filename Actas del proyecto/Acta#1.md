@@ -22,3 +22,23 @@ A partir de la informacion obtenida de cada integrante del proyecto a cerca del 
 ## **COMPROMISO**
 
 Cada integrante del proyecto debe presentarse o visitar una entidad educativa a nivel secundaria o ya sea superior, con el fin  de analizar y de presentar lo que se quiere con la realizacion del proyecto, con esto lograr poner en la mesa  la idea de la entidad a escoger y aprobar cual es la mas coveniente o la mejor para todos.
+
+
+## **ASISTENTES**
+
+David cabrera - Aprendiz
+
+Leidy quiroga - Aprendiz
+
+Jose Diazgranados- Aprendiz
+
+Sebastian Escandon -Apendiz
+
+Emanuel Alvarez- Aprendiz
+
+Brayan Torres- Apreniz
+
+## **INVITADOS**
+
+En esta reunion no hubo invitados
+
