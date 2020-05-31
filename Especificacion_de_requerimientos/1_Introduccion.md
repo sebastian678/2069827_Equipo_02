@@ -4,17 +4,16 @@ El presente documento tiene como propósito definir las especificaciones funcion
 
 ## **ALCANCE**
 
-## ***Este proyecto trata sobre un software y documentacion para un area productiva y los alcances programados para ella se formularan mas adelante. Se tiene un proposito muy grande para el siguiente software como lo son:***
-___
+El alcance de este proyecto sera el de crear una plataforma web para el area de emprendimiento del sena para que se les facilite la administracion y almacenamiento a la informacion que ellos manejan hacia los aprendices y empresarios. El sotfware tendra la siguientes funciones y especificaciones:
 
-1. analizar detenidamente lo que necesita el area de esa empresa para apoyarle con un software que que haga mas eficiente su actividad.
-2. Tras tener la informacion de la necesidad del area de la empresa se le empezara a hacer una analisis sobre los planes a futuro para la contruccion del software.
-3. Este software hara mas facil la actividad del area de emprendimiento de las siguientes maneras:
-	- Podra llevar un registro de las personas a las cuales se le da informacion.
-	- Se podran hacer encuentas a los usuarios. 
-	- Tendra un buen manejo de informacion.
-	- Sera muy facil buscar cualquier dato.
-4. Este Software se hara muy completo con la intencion de dejar una buena imagen antes los usuarios.
+1. Plataforma web para guardar la informacion.
+2. Tendra la opcion para que los engardados del area registren los datos.
+3. Tendra una sintaxis amigable y facil de usar.
+4. Tendra una base de datos amplia para el almacenamiento de la informacion.
+5. El proyecto tendra la duracion de año y medio.
+6. El software tendra un modulo de registro de actividades y de registro de personal.
+
+Al terminar el proyecto solo se hara entrega del software ya funcionando al area de emprendimiento.
 
 
 ## **DEFINICION,ACRONIMOS,ABREVIATURAS**
@@ -33,8 +32,6 @@ De igual manera este sector presta asesoría a pequeños microempresarios, pero 
 
 Este proyecto está siendo elaborado con el fin de reemplazar el anterior software de almacenamiento de información, la razón por la que el anterior software está siendo reemplazado es por debido al vencimiento de la licencia del mismo y la decisión por parte del sector en no renovarla, dado a este acontecimiento el sector se encuentra sin automatización para este medio teniendo que recurrir a catalogar la información artesanalmente, esto ha llevado a un gran retroceso para este sector bajando su productividad  también se tiene que tener en cuenta que anteriormente este proyecto estaba siendo llevado a cabo por ingenieros en sistemas de programación miembros de este sector  que ya habían avanzado almenas dos o tres meses  , de igual forma ya hemos sido autorizados por la directora regional de emprendimiento(Luz Elena Álvarez) para ayudar a la creación del prototipo de la nueva plataforma para el almacenamiento de información conocido como emprendent , y estaremos trabajando junto a estos gestores(dependiendo de su cooperación) para habilitar el prototipo de esta plataforma 14 (puede que me equivoque) meses restantes de aprendizaje.
 
-
 ## **APRECIACION GLOBAL**
 
 Este documento esta conformado por secciones que son el proposito, el alcance, y la ultima seccion es donde estan las definicines y los pormenores de los requisitos. en esta primera seccion se procura proporcionar una vision general de las funciones que cumplira o no el software. En la segunda seccion se da una descripcion general del sistema a construir, para conocer los datos requeridos y sus funciones generales, aunque no se entra en detalles de cada uno de esto factores. y por ultimo  tambien se conoceran las definiciones y los pormenores del software.
-
