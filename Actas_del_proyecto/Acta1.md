@@ -13,15 +13,23 @@
 
 ## **DESARROLLO DE LA REUNION**
 
-Esta reunion se llevo a cabo con el motivo de ponernos de acuerdo a escoger un sector productivo para nuestro proyecto y despues de socializar entres nosotros. nos decidimos en abarcar el sector educativo porque nos parece un sector muy completo para la realizacion de nuestro proyecto formativo.
+Esta reunion se llevo a cabo con el motivo de ponernos de acuerdo a escoger un sector productivo para nuestro proyecto y despues de socializar entres nosotros. nos decidimos en abarcar el sector comercial y textil, porque nos parece un sector muy completo para la realizacion de nuestro proyecto formativo.
 
 ## **CONCLUSION**
 
-A partir de la informacion obtenida de cada integrante del proyecto a cerca del sector productivo, logramos llegar a un acuerdo de que el sector productivo para desarrollar nuestro proyecto es el sector terciario en el campo educativo, fueron las estadisticas las que nos hicieron tomar la decision de intervenir en este sector, la mejor decision a partir de oportunidades, los beneficios que traeria nuestro proyecto a ese sector y su desarrollo sera masivo en este campo tan extenso.
+A partir de la informacion obtenida de cada integrante del proyecto a cerca del sector productivo, logramos llegar a un acuerdo de que el sector productivo para desarrollar nuestro proyecto es el sector terciario en el campo textil, fueron las estadisticas las que nos hicieron tomar la decision de intervenir en este sector, la mejor decision a partir de oportunidades, los beneficios que traeria nuestro proyecto a ese sector y su desarrollo sera masivo en este campo tan extenso.
 
 ## **COMPROMISO**
 
-Cada integrante del proyecto debe presentarse o visitar una entidad educativa a nivel secundaria o ya sea superior, con el fin  de analizar y de presentar lo que se quiere con la realizacion del proyecto, con esto lograr poner en la mesa  la idea de la entidad a escoger y aprobar cual es la mas coveniente o la mejor para todos.
+Cada integrante del proyecto debe presentarse o visitar un establecimiento comercial ya sea este: 
+
+almacen..
+Mercados municipales o comunales. ...
+Tiendas especializadas. ...
+Supermercados. ...
+Galerías y centros comerciales.
+
+con el fin  de analizar y de presentar lo que se quiere con la realizacion del proyecto, con esto lograr poner en la mesa  la idea de la entidad a escoger y aprobar cual es la mas coveniente o la mejor para todos.
 
 
 ## **ASISTENTES**
