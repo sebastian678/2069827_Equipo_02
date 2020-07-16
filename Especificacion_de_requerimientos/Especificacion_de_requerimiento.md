@@ -35,3 +35,30 @@ Este proyecto está siendo elaborado con el fin de reemplazar el anterior softwa
 ## **APRECIACION GLOBAL**
 
 Este documento esta conformado por secciones que son el proposito, el alcance, y la ultima seccion es donde estan las definicines y los pormenores de los requisitos. en esta primera seccion se procura proporcionar una vision general de las funciones que cumplira o no el software. En la segunda seccion se da una descripcion general del sistema a construir, para conocer los datos requeridos y sus funciones generales, aunque no se entra en detalles de cada uno de esto factores. y por ultimo  tambien se conoceran las definiciones y los pormenores del software.
+
+## PERSPECTIVAS DEL SOFTWARE
+
+Las perspectivas de este software son que el area de emprendimiento del sena tendra un facil acceso y control de la informacion de los aprendices y empresarios que aspiren a un fondo de emprendimiento.
+
+## FUNCIONES DEL SOFTWARE
+
+1. Almacenamiento de infomacion. 
+2. Control de la informacion.
+3. Facilidad al buscar los datos.
+
+## CARACTERISTICAS DE USUARIO
+
+
+## RESTRICCIONES
+
+
+## ATENCION Y DEPENDENCIAS 
+
+
+
+## REQUERIMIENTOS FUNCIONALES
+
+
+
+## REQUERIMIENTOS NO FUNCIONALES
+
