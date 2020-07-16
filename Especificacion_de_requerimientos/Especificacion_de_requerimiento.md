@@ -23,18 +23,47 @@ Al terminar el proyecto solo se hara entrega del software ya funcionando al area
 ## **DEFINICION,ACRONIMOS,ABREVIATURAS**
 
 1. ADSD-Analisi De Software de Documentacion 
-2. SEP-Secretaria de Educacion Publica
-3. BD-Base de daos 
-4. RIP-Registro de Informacion General
+2. BD-Base de datos 
+3. RIP-Registro de Informacion General
+4.
+
+##**DEFINICIONES**
+
+**Optimizacion:**
+Optimizar quiere decir buscar mejores resultados, más eficacia o mayor eficiencia en el desempeño de alguna tarea. De allí que términos sinónimos sean mejorar, optimar o perfeccionar. 
+
+**mercantilizar:**
+
+La mercantilización es el proceso de transformación de bienes y servicios en mercancías comercializables con fines de lucro. Es decir que el valor de cambio de los objetos prevalece sobre su valor de uso.
+
+**regularizacion:**
+
+Regularización es el proceso y la consecuencia de regularizar. Este verbo se refiere a normalizar, ordenar, reglamentar o sistematizar algo.
+
+**prototipo:**
+
+Primer ejemplar que se fabrica de una figura, un invento u otra cosa, y que sirve de modelo para fabricar otras iguales, o molde original con el que se fabrica.
+
+**sector terciario:**
+
+El sector servicios o sector terciario es el sector económico que engloba las actividades relacionadas con los servicios no productores o transformadores de bienes materiales. Generan servicios que se ofrecen para satisfacer las necesidades de cualquier población en el mundo.
+
+**la boutique:**
+
+La palabra boutique se refiere, por lo general, a una tienda exclusiva, de ropa o accesorios de moda. ... Así, hoy en día el término boutique también hace referencia a un establecimiento o negocio que comercializa o se especializa en productos o servicios muy selectos o exclusivos.
+
+A lo largo de todo el documento, se utilizan los términos Requisito y
+Requerimiento en forma indistinta.
 
 ## **DEFINICION**
 
 En esta definición se planea exponer los datos recopilados por nosotros como grupo de aprendices S.E.N.A hemos recopilado desde el día sábado 9 de mayo del año 2020.
 
-Este proyecto está diseñado para el beneficio y aporte al sector de emprendimiento. El Servicio Nacional de Aprendizaje también conocido como SENA, el sector de emprendimiento Sena se ocupa de otorgar apoyo monetario o de otro tipo a estudiantes ya sea del Sena como de otras universidades  o centros formativos con el propósito de darles la posibilidad de seguir estudiando en sus futuras carreras con una cierta comodidad esto se logra por medio de un “capital semilla” (es un tipo de oferta de acciones en la cual un inversor adquiere una parte de un negocio o empresa ) este capital antes mencionado es el único de su tipo en Colombia e igualmente es el más grande de Latinoamérica para adquirir este fondo el aprendiz debe de pasar por una ruta que tarda de 3 a 4 meses en lo que se valida su candidatura para el fondo emprender. 
-De igual manera este sector presta asesoría a pequeños microempresarios, pero siempre con la constante de que solo se hacen préstamos a las ideas más con más potencial, pero de igual forma a aquellos cuyas ideas no han sido lo suficientemente buenas se les ofrece ayuda interdisciplinaria para enseñarles a mejorar su negocio, el último servicio con el que cuenta este sector es fortalecimiento empresarial que consta en un entrenamiento para vigorizar el rendimiento de microempresas.
+Este proyecto está diseñado para el beneficio y aporte al sector economico en el area textil. La boutique es una de las mas importantes y uno de los grandes establecimientos en el sector donde se encuentra. el cual se caracteriza en la venta de artículos de moda y lujo como prendas de vestir y joyería. reconocido por su gran variedad y calidad de sus productos, ademas de su enorme fiabilidad a la hora de mercantilizar. queriendo lograr una extension en en el area que desempeña llevando esto hasta el domicilio del cliente, a lo que ahora se le conoce como tienda virtual. 
 
-Este proyecto está siendo elaborado con el fin de reemplazar el anterior software de almacenamiento de información, la razón por la que el anterior software está siendo reemplazado es por debido al vencimiento de la licencia del mismo y la decisión por parte del sector en no renovarla, dado a este acontecimiento el sector se encuentra sin automatización para este medio teniendo que recurrir a catalogar la información artesanalmente, esto ha llevado a un gran retroceso para este sector bajando su productividad  también se tiene que tener en cuenta que anteriormente este proyecto estaba siendo llevado a cabo por ingenieros en sistemas de programación miembros de este sector  que ya habían avanzado almenas dos o tres meses  , de igual forma ya hemos sido autorizados por la directora regional de emprendimiento(Luz Elena Álvarez) para ayudar a la creación del prototipo de la nueva plataforma para el almacenamiento de información conocido como emprendent , y estaremos trabajando junto a estos gestores(dependiendo de su cooperación) para habilitar el prototipo de esta plataforma 14 (puede que me equivoque) meses restantes de aprendizaje.
+Este proyecto está siendo elaborado con el fin de sistematizar y optimizar la cantidad de informacion que es suministrada a diario. Referente a ventas, compras, stock, observaciones y demas. 
+
+la razón por la que hicimos enfasis en la parte de la obtencion de la informacion y su procesamiento, fue gracias al  estudio y analisis sobre esta. Que puso en descubierto la perdida de informacion, la falta de optimizacion, esfuerzo mental por parte de los empleados encargados y sobre todo la falta de regularizacion y su obtencion. la tienda se encuentra sin automatización para este medio teniendo que recurrir a catalogar la información artesanalmente, esto ha llevado a un gran retroceso para la empresa bajando su productividad. ya hemos sido autorizados por la propietaria del emprendimiento (Maria buelvas) para ayudar a la creación del prototipo del software web para el almacenamiento de información, el cual para habilitar y entregarlo totalmente restan 14 meses de aprendizaje.
 
 ## **APRECIACION GLOBAL**
 
@@ -42,13 +71,14 @@ Este documento esta conformado por secciones que son el proposito, el alcance, y
 
 ## PERSPECTIVAS DEL SOFTWARE
 
-Las perspectivas de este software son que el area de emprendimiento del sena tendra un facil acceso y control de la informacion de los aprendices y empresarios que aspiren a un fondo de emprendimiento.
+Las perspectivas de este software son que el la empresa  tendra un facil acceso, control y obtencion de la informacion. sobre ventas,compras,observaciones y demas sobre los clientes y proveedores de la tienda.
 
 ## FUNCIONES DEL SOFTWARE
 
 1. Almacenamiento de infomacion. 
 2. Control de la informacion.
 3. Facilidad al buscar los datos.
+4. Simplicidad de obtencion de la informacion.
 
 ## CARACTERISTICAS DE USUARIO
 

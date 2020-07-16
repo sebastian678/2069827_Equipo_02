@@ -20,12 +20,14 @@ La reunion se llevo a cabo para determinar que empresa debiamos escoger para nue
 
 ## **CONCLUSION**
 
-Luego de una gran lluvia de ideas entre los integrantes logramos llegar a un acuerdo y compartir la misma idea de empresa a la cual hablarle y presentarle el proyecto, de acuerdo a los beneficios e intereses comunes por parte y parte cuya campo se desarrollaba en el sena en area de emprendimiento a cargo de la directora luz alvarez. Los integrantes del proyecto nos decidimos por la empresa DE EMPRENDIMIENTO SENA, porque queremos apoyar una gran entidad para que siga creciendo y facilitando ayudas a todos los colombianos. 
+Luego de una gran lluvia de ideas, entre los integrantes logramos llegar a un acuerdo y compartir el mismo plan de empresa a la cual hablarle y presentarle el proyecto, de acuerdo a los beneficios e intereses comunes por parte y parte fue el mas acertado cuyo plan se desarrolla en la parte comercial, exactamente en el campo textil. Es una tienda especializado en artículos de moda y lujo como prendas de vestir y joyería.
+
+ Los integrantes del proyecto nos decidimos por la boutique, porque queremos apoyar un gran emprendimiento para que siga creciendo su fiabilidad y ofreciendo el mejor de los servicos sus clientes. 
 
 
 ## **COMPROMISO**
 
-Programar una videoconferencia lo mas pronto posible con la encargada y ya mencionada del area de emprendimiento la doctora luz alvares con la intencion de presentar el proyecto y consigo exponer sus beneficios con detalles.
+Programar una videoconferencia lo mas pronto posible con la encargada y propietaria de la tienda, con la intencion de presentar el proyecto y consigo exponer sus beneficios con detalles.
 
 
 ## **ASISTENTES** 
