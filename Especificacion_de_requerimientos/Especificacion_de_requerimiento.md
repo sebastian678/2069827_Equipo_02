@@ -4,7 +4,7 @@ El presente documento tiene como objetivo brindar una descripción detallada de 
 
 ## **PROPOSITO** 
 
-El presente documento tiene como propósito definir las especificaciones funcionales, no funcionales y del sistema para la implementación de una plataforma WEB que tiene capacidad para gestionar, tenga acceso y consulte la información que se desarrolla dentro del área de empredimiento de la entidad sena, la cualidad es suministrada por medio de capacitaciones en la que participan aprendices e instructores, esta será manejada por estudiantes, profesores, directivos y público en general, para el seguimiento del desarrollo de las capacidades y de cada una de las actividades e información de suma importancia como la estadística del proceso 
+El presente documento tiene como propósito definir las especificaciones funcionales, no funcionales y del sistema para la implementación de una plataforma WEB que tiene capacidad para gestionar, tenga acceso y consulte la información que se desarrolla dentro del área de empredimiento de la entidad sena, la cualidad es suministrada por medio de capacitaciones en la que participan aprendices e instructores, esta será manejada por estudiantes, profesores, directivos y público en general, para el seguimiento del desarrollo de las capacidades y de cada una de las actividades e información de suma importancia como la estadística del proceso.
 
 ## **ALCANCE**
 
@@ -22,38 +22,40 @@ Al terminar el proyecto solo se hara entrega del software ya funcionando al area
 
 ## **DEFINICION,ACRONIMOS,ABREVIATURAS**
 
-1. ADSD-Analisi De Software de Documentacion 
-2. BD-Base de datos 
-3. RIP-Registro de Informacion General
-4.
+1. ADSD-Analisi De Software de Documentacion .
+2. BD-Base de datos. 
+3. RIP-Registro de Informacion General.
+4. CMS-siglas de Content Management System.
+5. RPA-Automatización Robótica de Procesos.
+
 
 ##**DEFINICIONES**
 
 **Optimizacion:**
+
 Optimizar quiere decir buscar mejores resultados, más eficacia o mayor eficiencia en el desempeño de alguna tarea. De allí que términos sinónimos sean mejorar, optimar o perfeccionar. 
 
-**mercantilizar:**
+**Mercantilizar:**
 
 La mercantilización es el proceso de transformación de bienes y servicios en mercancías comercializables con fines de lucro. Es decir que el valor de cambio de los objetos prevalece sobre su valor de uso.
 
-**regularizacion:**
+**Regularizacion:**
 
 Regularización es el proceso y la consecuencia de regularizar. Este verbo se refiere a normalizar, ordenar, reglamentar o sistematizar algo.
 
-**prototipo:**
+**Prototipo:**
 
 Primer ejemplar que se fabrica de una figura, un invento u otra cosa, y que sirve de modelo para fabricar otras iguales, o molde original con el que se fabrica.
 
-**sector terciario:**
+**Sector terciario:**
 
 El sector servicios o sector terciario es el sector económico que engloba las actividades relacionadas con los servicios no productores o transformadores de bienes materiales. Generan servicios que se ofrecen para satisfacer las necesidades de cualquier población en el mundo.
 
-**la boutique:**
+**La boutique:**
 
 La palabra boutique se refiere, por lo general, a una tienda exclusiva, de ropa o accesorios de moda. ... Así, hoy en día el término boutique también hace referencia a un establecimiento o negocio que comercializa o se especializa en productos o servicios muy selectos o exclusivos.
 
-A lo largo de todo el documento, se utilizan los términos Requisito y
-Requerimiento en forma indistinta.
+A lo largo de todo el documento, se utilizan los términos Requisito y Requerimiento en forma distinta.
 
 ## **DEFINICION**
 
@@ -63,7 +65,9 @@ Este proyecto está diseñado para el beneficio y aporte al sector economico en 
 
 Este proyecto está siendo elaborado con el fin de sistematizar y optimizar la cantidad de informacion que es suministrada a diario. Referente a ventas, compras, stock, observaciones y demas. 
 
-la razón por la que hicimos enfasis en la parte de la obtencion de la informacion y su procesamiento, fue gracias al  estudio y analisis sobre esta. Que puso en descubierto la perdida de informacion, la falta de optimizacion, esfuerzo mental por parte de los empleados encargados y sobre todo la falta de regularizacion y su obtencion. la tienda se encuentra sin automatización para este medio teniendo que recurrir a catalogar la información artesanalmente, esto ha llevado a un gran retroceso para la empresa bajando su productividad. ya hemos sido autorizados por la propietaria del emprendimiento (Maria buelvas) para ayudar a la creación del prototipo del software web para el almacenamiento de información, el cual para habilitar y entregarlo totalmente restan 14 meses de aprendizaje.
+la razón por la que hicimos enfasis en la parte de la obtencion de la informacion y su procesamiento, fue gracias al  estudio y analisis sobre esta. Que puso en descubierto la perdida de informacion, la falta de optimizacion, esfuerzo mental por parte de los empleados encargados y sobre todo la falta de regularizacion y su obtencion de informacion. 
+
+La tienda se encuentra sin automatización para este medio teniendo que recurrir a catalogar la información artesanalmente, esto ha llevado a un gran retroceso para la empresa bajando su productividad. ya hemos sido autorizados por la propietaria del emprendimiento (Maria buelvas) para ayudar a la creación del prototipo del software web para el almacenamiento de información, el cual para habilitar y entregarlo totalmente restan 14 meses de aprendizaje.
 
 ## **APRECIACION GLOBAL**
 
@@ -71,7 +75,8 @@ Este documento esta conformado por secciones que son el proposito, el alcance, y
 
 ## PERSPECTIVAS DEL SOFTWARE
 
-Las perspectivas de este software son que el la empresa  tendra un facil acceso, control y obtencion de la informacion. sobre ventas,compras,observaciones y demas sobre los clientes y proveedores de la tienda.
+Las perspectivas de este software son que el la empresa  tendra un facil acceso, control y obtencion de la informacion. sobre ventas,compras,observaciones y demas sobre los clientes y proveedores de la tienda. El sistema funcionará en un ambiente web, por lo que deberá ser capaz de funcionar en cualquier plataforma con un navegador web instalado, siempre
+y cuando disponga de conexión al servidor en que va a estar corriendo la aplicación, ya sea por Internet o alguna red privada.
 
 ## FUNCIONES DEL SOFTWARE
 
@@ -82,8 +87,28 @@ Las perspectivas de este software son que el la empresa  tendra un facil acceso,
 
 ## CARACTERISTICAS DE USUARIO
 
+El producto a construir va dirigido a tres tipos de usuarios principales. En
+primer lugar, usuarios con conocimientos avanzados en lo referente a
+sistemas de información, que poseen conocimientos específicos  En
+segundo lugar, está dirigido a clientes de proyectos que en algunos casos
+no tienen conocimientos sobre el tema. 
+
+El sistema cuenta con tres tipos de usuario final, los cuales cada uno de ellos puede representar un rol, que incide forma directa o indirecta con la tienda ya sea como: Empleado(cuerpo administrativo), cliente o proveedor.
+
+• El primero se conforma de ; personas con nivel escolar
+promedio de preparatoria, deben tener conocimientos básicos de computación
+(e.g. ofimática). “Nivel Administrativo", empleado o Personal laboral a disposicion de la administracion.
+
+• El siguiente nivel lo constituyen sobre todo el personal administrativo, el cual incluye
+también al personal capacitado a dispocion de estos, como lo puede ser un jefe de empleados ; son personas con niveles de educación superior al menos, con capacidad de manejo intermedio de equipo de cómputo, se
+requieren conocimientos mínimos de uso de sistemas ABC. “Nivel Académico”.
+
+• En el nivel restante va referente a los clientes, con al menos uan formacion basica primaria, que tal se encuentran en un desarrollo o etapa de la vida ya sea: adolecencia, juventud, adultez,  y la vejez que tal usuario está pensado que no sea afín a la tecnología y que en un caso extremo no sepa usarla.”personal longevo”.
+
+
 
 ## RESTRICCIONES
+
 
 
 ## ATENCION Y DEPENDENCIAS 
@@ -96,3 +121,49 @@ Las perspectivas de este software son que el la empresa  tendra un facil acceso,
 
 ## REQUERIMIENTOS NO FUNCIONALES
 
+**01-Interfaz del sistema**
+
+La interfaz del sistema debe estar implementada como una aplicación web,
+a excepción de la extensión para Smart Devices. Se pretende además la
+existencia de un portal de requisitos.
+
+**02 - Usabilidad**
+
+El sistema deberá proveer una interfaz amigable al usuario, que sea fácil
+de aprender y de usar. Se pretende que la navegación entre las distintas
+funcionalidades del sistema sea realizada en forma sencilla y en pocos
+pasos. La interfaz deberá ofrecer funcionalidades para realizar tareas
+repetitivas en forma automática.
+
+##**Ejemplo:**
+
+**Inicio de sesión automática en un sitio web:** 
+
+Al automatizar el inicio de sesión y el proceso de navegación de un sitio web se pueden ahorrar muchas horas de procesamiento manual.
+
+**Navegación automática en un sitio web**
+
+**Scraping: extraer datos de una página web de forma automática**
+
+**03 - Utilización de GAM**
+
+Se deberá utilizar Genexus Access Manager para toda la gestión de usuarios
+y control de acceso; autenticación y autorización.
+
+**Requerimientos de Interfaz externa**
+
+-Interfaz de usuario.
+
+-Estándar de GUI.
+
+-Distribución de la pantalla.
+
+-Restricciones de resolución.
+
+-Estándares de botones, funciones o enlaces de.
+
+-navegación que aparecen en cada ventana.
+
+-Teclas “shortcut”.
+
+-Estándares de mensajes de error.

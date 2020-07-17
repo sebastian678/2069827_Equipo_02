@@ -15,7 +15,7 @@
 
 ## **DESARROLLO DE LA REUNION**
 
-La reunion se llevo a cabo para determinar que empresa debiamos escoger para nuestro proyecto, los integrantes colocaron 3 propuestas y determinariamos cual era la mejor opcion.
+La reunion se llevo a cabo para determinar que empresa debiamos escoger para nuestro proyecto, los integrantes colocaron 3 propuestas cada uno y determinariamos cual era la mejor opcion.
 
 
 ## **CONCLUSION**
