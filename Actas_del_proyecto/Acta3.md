@@ -45,13 +45,14 @@ Tendremos una reunion con cada todos los empleados del area administrativa encar
 - Realizar nueva video-conferencia con los empleados de la empresa para aclarar toda duda y concluir en lo que vamos trabajar en el proyecto.
 
 ## **ASISTENTES**
+
 - **CARGO APRENDIZ**
-	- David cabrera
-	- Jose diazgranados
-	- Leidy quiroga
-	- Emmanuel alvarez
-	- Brayan torres
-	- Sebastian escandon
+- David cabrera
+- Jose diazgranados
+- Leidy quiroga
+- Emmanuel alvarez
+- Brayan torres
+- Sebastian escandon
 
 ## **INVITADOS**
 - **CARGO - PROPIETARIA DE LA BOUTIQUE**

@@ -6,12 +6,12 @@
 
 ### REUNION: REALIZADA POR ZOOM 
 
+
 ## **TEMAS QUE SE HABLARON**
 - Se le hizo la presentacion del proyecto a la empresa.
 - Se hablo de como se iba a manejar el proyecto.
 - De como necesitabamos la informacion de la empresa.
 - Se acordo el plazo para la entrega del Software Web.
-
 
 
 ## **ASISTENTES**
@@ -24,5 +24,5 @@
 	- Sebastian escandon
 
 ## **INVITADOS**
-- **CARGO -PROPIETARIA DE LA BOUTIQUE**
+- **CARGO - PROPIETARIA DE LA BOUTIQUE**
 - Maria buelvas

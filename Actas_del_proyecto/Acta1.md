@@ -34,13 +34,13 @@ con el fin  de analizar y de presentar lo que se quiere con la realizacion del p
 
 ## **ASISTENTES**
 
-David cabrera - Aprendiz
+David cabrera- Aprendiz
 
-Leidy quiroga - Aprendiz
+Leidy quiroga- Aprendiz
 
 Jose Diazgranados- Aprendiz
 
-Sebastian Escandon -Apendiz
+Sebastian Escandon-Apendiz
 
 Emanuel Alvarez- Aprendiz
 
