@@ -4,21 +4,24 @@ El presente documento tiene como objetivo brindar una descripción detallada de 
 
 ## **PROPOSITO** 
 
-El presente documento tiene como propósito definir las especificaciones funcionales, no funcionales y del sistema para la implementación de una plataforma WEB que tiene capacidad para gestionar, tenga acceso y consulte la información que se desarrolla dentro del área de empredimiento de la entidad sena, la cualidad es suministrada por medio de capacitaciones en la que participan aprendices e instructores, esta será manejada por estudiantes, profesores, directivos y público en general, para el seguimiento del desarrollo de las capacidades y de cada una de las actividades e información de suma importancia como la estadística del proceso.
+El propósito de este documento es describir de manera formal el comportamiento del sistema para la implementación de una plataforma WEB que se pretende construir. que tendra capacidad para gestionar, realizar ventas y almacenar la informacion que se trabajara dentro la plataforma realizada para el almacen Variedades Mary. A continuación se detallan los requerimientos funcionales y no funcionales, las restricciones y atributos de calidad que deberá cumplir el sistema. El documento está dirigido a:
+
+1. El cliente.
+2. Todos los miembros del equipo de desarrollo aprendiz.
+3. El Instructor.
+
 
 ## **ALCANCE**
 
-El alcance de este proyecto sera el de crear una plataforma web para el area de emprendimiento del sena para que se les facilite la administracion y almacenamiento a la informacion que ellos manejan hacia los aprendices y empresarios. El sotfware tendra la siguientes funciones y especificaciones:
+El alcance de este proyecto será el de crear una plataforma web para el comercio Variedades Mary para que se les facilite en almacenamiento y recolección de información de sus artículos y al igual crearle un punto de ventas en línea y así poder solucionarle la perdida de información que se tiene al realizar las ventas. Gracias a la plataforma web habrá una mejor comunicación de cliente a vendedor. Este software tendrá las siguientes funciones y especificaciones:
 
-1. Plataforma web para guardar la informacion.
-2. Tendra la opcion para que los engardados del area registren los datos.
-3. Tendra una sintaxis amigable y facil de usar.
-4. Tendra una base de datos amplia para el almacenamiento de la informacion.
-5. El proyecto tendra la duracion de año y medio.
-6. El software tendra un modulo de registro de actividades y de registro de personal.
+1. Tendrá una base de datos con el inventario de los artículos.
+2. Tendrá un punto de venta en línea.
+3. Habrá un mejor contacto con el cliente comunicación de cliente.
+4. Tendrá una sintaxis amigable y fácil de usar.
+5. La plataforma tendrá un módulo de registro de actividades y de registro de usuarios.
 
-Al terminar el proyecto solo se hara entrega del software ya funcionando al area de emprendimiento.
-
+El proyecto tendrá la duración de año y medio y al terminar el proyecto solo se hará entrega del software ya funcionando al almacén Variedades Mary.
 
 ## **DEFINICION,ACRONIMOS,ABREVIATURAS**
 
@@ -105,18 +108,28 @@ requieren conocimientos mínimos de uso de sistemas ABC. “Nivel Académico”.
 
 • En el nivel restante va referente a los clientes, con al menos uan formacion basica primaria, que tal se encuentran en un desarrollo o etapa de la vida ya sea: adolecencia, juventud, adultez,  y la vejez que tal usuario está pensado que no sea afín a la tecnología y que en un caso extremo no sepa usarla.”personal longevo”.
 
-
-
 ## RESTRICCIONES
 
-
+Se debe hacer uso de los protocolos de intercambio de datos via internet para la plataforma web.
+respecto a la seguridad, se debe considerar el uso de sesiones para limitar el acceso a usuarios no autorizados.
 
 ## ATENCION Y DEPENDENCIAS 
 
-
+Para el completo funcionamiento de la plataforma, debe ser dependiente de una conexion a internet y tambien a una respectiva base de datos que le creara al cliente
 
 ## REQUERIMIENTOS FUNCIONALES
 
+A continuación, se detallan los requisitos funcionales que el sistema deberá implementar.
+
+1. Autenticación y autorización de usuarios:
+- El sistema deberá permitir a los usuarios iniciar sesión en el mismo. También deberá permitirles cerrar sesión una sesión iniciada previamente
+2. Gestión de información
+- El sistema deberá permitir que los usuarios modifiquen los datos registrados en la base de datos de la plataforma web como.
+3. Consulta de información
+4. registro de información
+5. Visualizar información
+5. Reportes de las ventas
+6. Almacenamiento de información 
 
 
 ## REQUERIMIENTOS NO FUNCIONALES
