@@ -108,15 +108,14 @@ requieren conocimientos mínimos de uso de sistemas ABC. “Nivel Académico”.
 
 • En el nivel restante va referente a los clientes, con al menos uan formacion basica primaria, que tal se encuentran en un desarrollo o etapa de la vida ya sea: adolecencia, juventud, adultez,  y la vejez que tal usuario está pensado que no sea afín a la tecnología y que en un caso extremo no sepa usarla.”personal longevo”.
 
-
-
 ## RESTRICCIONES
 
-
+Se debe hacer uso de los protocolos de intercambio de datos via internet para la plataforma web.
+respecto a la seguridad, se debe considerar el uso de sesiones para limitar el acceso a usuarios no autorizados.
 
 ## ATENCION Y DEPENDENCIAS 
 
-
+Para el completo funcionamiento de la plataforma, debe ser dependiente de una conexion a internet y tambien a una respectiva base de datos que le creara al cliente
 
 ## REQUERIMIENTOS FUNCIONALES
 
