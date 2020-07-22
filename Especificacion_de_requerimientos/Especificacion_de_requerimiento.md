@@ -78,35 +78,52 @@ Este documento esta conformado por secciones que son el proposito, el alcance, y
 
 ## PERSPECTIVAS DEL SOFTWARE
 
-Las perspectivas de este software son que el la empresa  tendra un facil acceso, control y obtencion de la informacion. sobre ventas,compras,observaciones y demas sobre los clientes y proveedores de la tienda. El sistema funcionará en un ambiente web, por lo que deberá ser capaz de funcionar en cualquier plataforma con un navegador web instalado, siempre
-y cuando disponga de conexión al servidor en que va a estar corriendo la aplicación, ya sea por Internet o alguna red privada.
+Este software sera de facil acceso, sera capaz de generar simplicidad del control y obtencion de la informacion la cual suministrada por los usuarios.
+
+Logrando una multifuncionalidad y accesibilidad de acuerdo a las funciones del usuario. Se espera que el sistema funcione en un ambiente web, por lo que deberá ser capaz de funcionar en cualquier plataforma con un navegador web instalado, siempre y cuando disponga de conexión al servidor en que va a estar corriendo la aplicación, ya sea por Internet o alguna red privada. 
+
+Se espera que el software cuente con un solo formato, ya que la información que se muestra va cambiando a medida que que se va ingresando a cada uno de las opciones.
+Esta interfaz cumple con los requisitos de interfaz amigable con el usuario y facil de usar.
+
+Al ser una aplicacion web se espera que el consumo de recursos sea muy poco
+
+El sistema WEB, permitirá su utilización de forma descentralizada, además trabajará de manera independiente por lo tanto no interactuará con otros sistemas.
+
+Lo que se espera de esta aplicacion es que sea mas usable y mas intuitiva para sus usuarios, ademas de que satisfaga completamente los requerimientos con el mejor uso de recursos posibles.
+
 
 ## FUNCIONES DEL SOFTWARE
 
-1. Almacenamiento de infomacion. 
-2. Control de la informacion.
-3. Facilidad al buscar los datos.
-4. Simplicidad de obtencion de la informacion.
+El software debe cumplir con las siguientes funciones:-
+
+1. un registro de asignacion de venta.
+
+2. Generar el registro de compras y ventas.
+
+3. Mejora en la ejecucion de la facturación.
+ 
+4. Mostrar el estado de la infomacion de las ventas.
+
+5. Generar y recibir reportes.
+
+6. Control de la informacion:
+ -ajustar los procesos internos de ventas.
+ -visualizar el recorrido.
+ -seguimiento de contactos.
+ -Consultar registros.
+
 
 ## CARACTERISTICAS DE USUARIO
 
-El producto a construir va dirigido a tres tipos de usuarios principales. En
-primer lugar, usuarios con conocimientos avanzados en lo referente a
-sistemas de información, que poseen conocimientos específicos  En
-segundo lugar, está dirigido a clientes de proyectos que en algunos casos
-no tienen conocimientos sobre el tema. 
+El sistema cuenta con tres tipos de usuario final, los cuales cada uno de ellos puede representar un rol, que incide forma directa o indirecta con la tienda ya sea como: Empleado,(cuerpo administrativo), cliente.
 
-El sistema cuenta con tres tipos de usuario final, los cuales cada uno de ellos puede representar un rol, que incide forma directa o indirecta con la tienda ya sea como: Empleado(cuerpo administrativo), cliente o proveedor.
+Empleado(cuerpo administrativo)Este rol de usuario en primera instancia es quien mas interatua con el sistema y tambien el cual tiene mas accesibilidad y ser el usuario a disposicion de administrar la informacion de los usuarios y clientes de acuerdo a los requerimientos u opciones definidas refenrente a la informacionde las ventas.
 
-• El primero se conforma de ; personas con nivel escolar
-promedio de preparatoria, deben tener conocimientos básicos de computación
-(e.g. ofimática). “Nivel Administrativo", empleado o Personal laboral a disposicion de la administracion.
+Empleado(vendedor) como el anterior este rol es igual de principal solo que con alguna limitaciones en la accesibilidad a la informacion suministrada en el sistema unicamente es direccionado a encargarse atraves de la interfaz vendedor de generar un registro de asignacion de venta, y unicamente trenda acceso a su informacion personal e sus datos a cerca de sus ventas asignadas.
 
-• El siguiente nivel lo constituyen sobre todo el personal administrativo, el cual incluye
-también al personal capacitado a dispocion de estos, como lo puede ser un jefe de empleados ; son personas con niveles de educación superior al menos, con capacidad de manejo intermedio de equipo de cómputo, se
-requieren conocimientos mínimos de uso de sistemas ABC. “Nivel Académico”.
+El siguiente lo constituyen los clientes igual de importantes que los menciondos quienes solo tendran acceso a su informacion personal en su perfil y ala hora de la facturacion tambien a la informacion refernte a los productos que se encuentran en venta dentro de la interfaz usuario.
 
-• En el nivel restante va referente a los clientes, con al menos uan formacion basica primaria, que tal se encuentran en un desarrollo o etapa de la vida ya sea: adolecencia, juventud, adultez,  y la vejez que tal usuario está pensado que no sea afín a la tecnología y que en un caso extremo no sepa usarla.”personal longevo”.
+
 
 ## RESTRICCIONES
 
@@ -143,9 +160,13 @@ existencia de un portal de requisitos.
 **02 - Usabilidad**
 
 El sistema deberá proveer una interfaz amigable al usuario, que sea fácil
-de aprender y de usar. Se pretende que la navegación entre las distintas
+de aprender y de usar. 
+
+Se pretende que la navegación entre las distintas
 funcionalidades del sistema sea realizada en forma sencilla y en pocos
-pasos. La interfaz deberá ofrecer funcionalidades para realizar tareas
+pasos. 
+
+La interfaz deberá ofrecer funcionalidades para realizar tareas
 repetitivas en forma automática.
 
 ##**Ejemplo:**
@@ -158,25 +179,34 @@ Al automatizar el inicio de sesión y el proceso de navegación de un sitio web 
 
 **Scraping: extraer datos de una página web de forma automática**
 
-**03 - Utilización de GAM**
+**Utilización de GAM**
 
 Se deberá utilizar Genexus Access Manager para toda la gestión de usuarios
 y control de acceso; autenticación y autorización.
 
+**Ayuda en línea**
+Es necesaria como alternativa por si se requiere de alguna informacion en especifico inmediatamente el usuario podra acceder a la ayuda en linea.
+
+**El sistema web debe ser seguro y garantizado**
+
 **Requerimientos de Interfaz externa**
 
--Interfaz de usuario.
+-Interfaz de inicio de sesion(principal).
 
--Estándar de GUI.
+-interfaz de informacion de compra clientes.
 
--Distribución de la pantalla.
+-Interfaz de facturacion de ventas.
 
--Restricciones de resolución.
+-Interfaz asignacion de ventas(vendedor).
 
--Estándares de botones, funciones o enlaces de.
+-Interfaz de cuerpo administrativo de la informacion.
 
--navegación que aparecen en cada ventana.
+-Interfaz perfil de usuario.
 
--Teclas “shortcut”.
+-Interfaz de reportes de ventas.
 
--Estándares de mensajes de error.
+-Interfaz de administracion de roles.
+
+-Interfaz de compra de productos.
+
+-Interfaz de ventas en espera.
