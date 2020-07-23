@@ -157,7 +157,7 @@ A continuación, se detallan los requisitos funcionales que el sistema deberá i
 - permitir la modificacion de informacion en la base de datos.
 
 5. Modulo de reporte
-- realizar un reporte de ventas
+- realizar reporte de ventas
 - reportes de clientes
 - reportes de pedidos realizados al proveedor
 
