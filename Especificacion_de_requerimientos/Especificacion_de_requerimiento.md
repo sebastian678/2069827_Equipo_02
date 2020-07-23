@@ -145,7 +145,7 @@ Para el completo funcionamiento de la plataforma tiene estas depedencias:
 A continuación, se detallan los requisitos funcionales que el sistema deberá implementar.
 
 1. Inicio de sesion
-- se realizara un inicio de sesion para que solo puedan ingresar las personas registrada en el sistema.
+- se realizara un inicio de sesion para que solo puedan ingresar las personas registradas en el sistema.
 
 2. Ingreso de productos
 - registrar el ingreso de los productos que llegan por parte del proveedor al almacen en la base de datos.
@@ -156,8 +156,10 @@ A continuación, se detallan los requisitos funcionales que el sistema deberá i
 4. Gestion de informacion
 - permitir la modificacion de informacion en la base de datos.
 
-5. Reporte de ventas
-- realizar un reporte de ventas cuando se solicite.
+5. Modulo de reporte
+- realizar un reporte de ventas
+- reportes de clientes
+- reportes de pedidos realizados al proveedor
 
 6. Facturacion
 - la plataforma debe generar una factura para ser entregada al cliente o bien podria ser electronica y se le mandaria al cliente al correo.
